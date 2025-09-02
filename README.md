@@ -15,18 +15,6 @@ I help companies protect their assets, financial, and customer data. My work inc
 
 ---
 
-### 🚀 Connect with Me
-
-| Channel                                                                                                      | Channel Name     | Link                                             |
-|-----------------------------------------------------------------------------------------------------------------------|------------------|-------------------------------------------------|
-| <a href="https://youtube.com/@getcyber" target="_blank" rel="noreferrer"><img src="https://getcyber.me/static/images/icons/youtube.png" width="32" height="32" /></a> | YouTube          | [youtube.com/@getcyber](https://youtube.com/@getcyber) |
-| <a href="https://discord.gg/YUf3VpDeNH" target="_blank" rel="noreferrer"><img src="https://getcyber.me/static/images/icons/discord.png" width="32" height="32" /></a> | Discord          | [discord.gg/YUf3VpDeNH](https://discord.gg/YUf3VpDeNH) |
-| <a href="https://github.com/Dan-Duran" target="_blank" rel="noreferrer"><img src="https://getcyber.me/static/images/icons/github.png" width="32" height="32" /></a> | GitHub           | [github.com/Dan-Duran](https://github.com/Dan-Duran) |
-| <a href="https://www.linkedin.com/in/danduran-ca/" target="_blank" rel="noreferrer"><img src="https://getcyber.me/static/images/icons/linkedin.png" width="32" height="32" /></a> | LinkedIn         | [linkedin.com/in/danduran-ca](https://www.linkedin.com/in/danduran-ca/) |
-| <a href="https://www.facebook.com/danduran.me/" target="_blank" rel="noreferrer"><img src="https://getcyber.me/static/images/icons/facebook.png" width="32" height="32" /></a> | Facebook         | [facebook.com/danduran.me](https://www.facebook.com/danduran.me/) |
-| <a href="https://www.instagram.com/getcyber.me" target="_blank" rel="noreferrer"><img src="https://getcyber.me/static/images/icons/instagram.png" width="32" height="32" /></a> | Instagram        | [instagram.com/getcyber.me](https://www.instagram.com/getcyber.me) |
-
----
 
 ### 🔨 Languages and Tools
 <p align="left"> 
