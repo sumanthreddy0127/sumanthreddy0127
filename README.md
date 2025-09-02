@@ -23,34 +23,16 @@ I help companies protect their assets, financial, and customer data. My work inc
 
 ---
 
-> ### 💝 Support My Work
-> 
-> [![Click to Sponsor!](https://img.shields.io/badge/Sponsor_my_work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Dan-Duran)
->
-> Your sponsorship helps keep my open-source projects alive! From interactive learning tools to security guides, every contribution makes a difference in keeping these resources free and accessible to everyone.
->
-> <details>
-> <summary>Why sponsor?</summary>
->
-> - 🔨 Maintain and improve existing tools
-> - 📚 Create new educational content
-> - 🌐 Keep resources free and accessible
-> - 💡 Dedicate more time to community projects
-> </details>
-
----
 
 ### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dan-Duran&show_icons=true&locale=en&layout=compact" alt="Dan-Duran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dan-Duran&show_icons=true&locale=en" alt="Dan-Duran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-Duran" alt="Dan-Duran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanthreddy0127&show_icons=true&locale=en" alt="sumanthreddy0127" /></p>
 
-### Hack The Box
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthreddy0127" alt="sumanthreddy0127" /></p>
 
-<img width="1358" alt="image" src="https://github.com/user-attachments/assets/92ab4e00-46fd-4fd7-902b-c54d295683a3" />
+
 
 
 ## ❤️ Subscribe to my GitHub!
