@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sumanth Reddy </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-     <img height="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=600&lines=IAM+Engineer;Cybersecurity;Information+Security;Cloud+Security&fontSize=32" alt="Typing SVG" />
-  </a>
+      <div align="center">
+                  <img height="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
+
+<p align="center">     
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=600&lines=IAM+Engineer;Cybersecurity;Information+Security;Cloud+Security&fontSize=32" alt="Typing SVG" />
+</a>
 </p>
+</div>
 
 
 ---
