@@ -60,7 +60,13 @@ To leverage my background in Information Technology and Cybersecurity to design 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanthreddy0127&show_icons=true&locale=en" alt="sumanthreddy0127" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthreddy0127" alt="sumanthreddy0127" /></p>
+
+
+📝 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Chatbot UI is an open-source AI app enabling secure, scalable, customizable deployments with Supabase.](https://medium.com/@sumanth.uf51/ui-chatbot-faea3218c135)
+- [Beginner-friendly project using GitOps, Terraform, and AWS services to automate and secure IAM management](https://medium.com/@sumanth.uf51/managing-aws-iam-in-gitops-style-9f797e026b47)
+<!-- BLOG-POST-LIST:END -->
 
 
 
