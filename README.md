@@ -39,6 +39,10 @@ I’m a graduate in Information Technology and Cybersecurity, focused on Identit
 
 - 📫 How to reach me **sumanth.uf51@gmail.com**
 
+## Objective
+
+To leverage my background in Information Technology and Cybersecurity to design and implement secure, automated, and compliant identity and access solutions. I aim to integrate IAM, DevSecOps, and SOC practices to strengthen enterprise security, reduce risks, and enable organizations to adopt zero-trust and cloud-first strategies effectively.
+
 ---
 
 
