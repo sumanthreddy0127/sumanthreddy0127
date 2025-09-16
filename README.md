@@ -33,7 +33,7 @@
 
 ### 😎 About Me
 
-I help companies protect their assets, financial, and customer data. My work includes security assessments,Identity security,penetration testing, and implementing robust defenses. I also assist businesses in optimizing their technology investments and support various development projects.
+I’m a graduate in Information Technology and Cybersecurity, focused on Identity & Access Management, DevSecOps, and cloud security. I bring hands-on experience with tools like Okta, SailPoint, Ping, and ForgeRock, while also applying automation, threat detection, and compliance frameworks to build secure, scalable, and future-ready systems.
 
 - 💬 Ask me about **Cybersecurity and Development**
 
